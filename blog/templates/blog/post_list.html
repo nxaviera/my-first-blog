@@ -7,5 +7,18 @@
 	Le Blog 
 	</h1>
 
+{% for post in posts %} 
+	<div>
+		<p> published: {{ post.published_date }}
+		<h1><a hrerf="">{{ post.title }} </a></h1>
+		<p>{{ post.text|linebreaksbr }}</p>
+	<div>
+{% endfor %}
+
+
+
+<img src="http://orig12.deviantart.net/a301/f/2013/055/5/e/corgi_and_fairy_by_sandara-d5vh6by.jpg"
+	
+
 </body>
 </html>
