@@ -6,16 +6,14 @@
 }
 
 
-h1 a {
-}
-
 .post {
-	background-color: #a0522d;
+	background-color: #000000;
 	font-family: 'monospace';
-	color: #cdc5bf;
+	color: #98fb98;
 }
 
 body {
-	background-color: #2f4f4f;
+	background-color: #B00000;
+	height: 100%;
 }
 
