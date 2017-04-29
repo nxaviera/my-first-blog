@@ -1,19 +1,26 @@
+.page-header a {
+	color: #505160;
+}
+
 .page-header {
-	background-color: #a52a2a;
-	font-family: 'Lobster';
-	color: #778899;
+	background-color: #598234;
+	font-family: 'Cabin';
 	padding: 20px 20px 20px 10px;
 }
 
+.post a {
+	color: #505160;
+	font-family: 'Cabin';
+}
 
 .post {
-	background-color: #000000;
-	font-family: 'monospace';
-	color: #98fb98;
+	background-color: #598234;
+	font-family: 'Cabin';
+	color: #AEBD38;
+	padding: 0px 10px;
 }
 
 body {
-	background-color: #B00000;
-	height: 100%;
-}
+	background-color: #505160;
+
 
